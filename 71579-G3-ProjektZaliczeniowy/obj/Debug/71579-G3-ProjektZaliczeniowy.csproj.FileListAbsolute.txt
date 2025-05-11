@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\bin\Debug\71579-G3-ProjektZaliczeniowy.exe.config
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\bin\Debug\71579-G3-ProjektZaliczeniowy.exe
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\bin\Debug\71579-G3-ProjektZaliczeniowy.pdb
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\obj\Debug\71579-G3-ProjektZaliczeniowy.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\obj\Debug\_71579_G3_ProjektZaliczeniowy.Form1.resources
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\obj\Debug\_71579_G3_ProjektZaliczeniowy.Properties.Resources.resources
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\obj\Debug\71579-G3-ProjektZaliczeniowy.csproj.GenerateResource.cache
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\obj\Debug\71579-G3-ProjektZaliczeniowy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\obj\Debug\71579-G3-ProjektZaliczeniowy.exe
+C:\Users\User\source\repos\71579-G3-ProjektZaliczeniowy\71579-G3-ProjektZaliczeniowy\obj\Debug\71579-G3-ProjektZaliczeniowy.pdb
